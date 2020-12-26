@@ -1,0 +1,4 @@
+AnomalyRate,samples_seen_AnomalyRate,SADWIN,samples_seen_SADWIN,PADWIN,samples_seen_PADWIN,NDKSWIN,samples_seen_NDKSWIN,param,window,estimators
+1,50,0,100,0,100,0,50,result_Number0_for_WS50_NE30updated_count.csv,50,30
+1,100,0,150,0,150,0,100,,,
+1,150,,,,,0,150,,,

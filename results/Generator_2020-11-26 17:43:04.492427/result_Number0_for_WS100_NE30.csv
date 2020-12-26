@@ -1,0 +1,7 @@
+# TEST CONFIGURATION BEGIN
+# SEAGenerator(balance_classes=False, classification_function=0, noise_percentage=0.1, random_state=1)
+# [M_IFA] IsolationForestStream(anomaly_threshold=0.5, drift_threshold=0.1, n_estimators=30, n_estimators_updated=15, random_state=None, updated_randomly=True, version='MAnomalyRate', window_size=100)
+# EvaluatePrequential(batch_size=1, data_points_for_classification=False, max_samples=400, max_time=inf, metrics=['accuracy', 'f1', 'precision', 'recall', 'true_vs_predicted', 'kappa', 'kappa_m', 'running_time', 'model_size'], n_wait=400, output_file='results/Generator_2020-11-26 ' '17:43:04.492427/result_Number0_for_WS100_NE30.csv', pretrain_size=1, restart_stream=True, show_plot=True)
+# TEST CONFIGURATION END
+id,mean_acc_[M_IFA],current_acc_[M_IFA],mean_f1_[M_IFA],current_f1_[M_IFA],mean_precision_[M_IFA],current_precision_[M_IFA],mean_recall_[M_IFA],current_recall_[M_IFA],true_value,predicted_value_[M_IFA],mean_kappa_[M_IFA],current_kappa_[M_IFA],mean_kappa_m_[M_IFA],current_kappa_m_[M_IFA],training_time_[M_IFA],testing_time_[M_IFA],total_running_time_[M_IFA],model_size_[M_IFA]
+399,0.325815,0.325815,0.328551,0.328551,0.301417,0.301417,0.221318,0.221318,1.000000,1.000000,-0.056605,-0.056605,-1.007463,-1.007463,0.551129,14.209735,14.760864,634.821289

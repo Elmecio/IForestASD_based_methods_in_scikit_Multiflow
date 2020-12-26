@@ -1,0 +1,7 @@
+# TEST CONFIGURATION BEGIN
+# FileStream(filename='Generator_2020-12-03 15:50:13.035517_dataUsed.csv', target_idx=-1, n_targets=1, cat_features=None)
+# [M_IFA] IsolationForestStream(alpha=0.01, anomaly_threshold=0.5, data=None, drift_threshold=0.1, fixed_checked_dimension=False, fixed_checked_sample=False, n_dimensions=1, n_estimators=30, n_estimators_updated=15, n_tested_samples=0.1, random_state=None, updated_randomly=True, version='MAnomalyRate', window_size=100)
+# EvaluatePrequential(batch_size=1, data_points_for_classification=False, max_samples=1000, max_time=inf, metrics=['accuracy', 'f1', 'precision', 'recall', 'true_vs_predicted', 'kappa', 'kappa_m', 'running_time', 'model_size'], n_wait=1000, output_file='results/Generator_2020-12-03 ' '15:50:13.035517/result_Number0_UR0.5_for_WS100_NE30.csv', pretrain_size=1, restart_stream=True, show_plot=True)
+# TEST CONFIGURATION END
+id,mean_acc_[M_IFA],current_acc_[M_IFA],mean_f1_[M_IFA],current_f1_[M_IFA],mean_precision_[M_IFA],current_precision_[M_IFA],mean_recall_[M_IFA],current_recall_[M_IFA],true_value,predicted_value_[M_IFA],mean_kappa_[M_IFA],current_kappa_[M_IFA],mean_kappa_m_[M_IFA],current_kappa_m_[M_IFA],training_time_[M_IFA],testing_time_[M_IFA],total_running_time_[M_IFA],model_size_[M_IFA]
+999,0.395395,0.395395,0.370944,0.370944,0.307420,0.307420,0.273831,0.273831,0.000000,0.000000,-0.060659,-0.060659,-0.776471,-0.776471,0.787775,46.440921,47.228696,643.942383

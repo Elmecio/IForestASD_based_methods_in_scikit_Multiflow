@@ -1,0 +1,5 @@
+NDKSWIN
+0
+0
+,id,mean_acc_[NDKSWIN_IFA],current_acc_[NDKSWIN_IFA],mean_f1_[NDKSWIN_IFA],current_f1_[NDKSWIN_IFA],mean_precision_[NDKSWIN_IFA],current_precision_[NDKSWIN_IFA],mean_recall_[NDKSWIN_IFA],current_recall_[NDKSWIN_IFA],true_value,predicted_value_[NDKSWIN_IFA],mean_kappa_[NDKSWIN_IFA],current_kappa_[NDKSWIN_IFA],mean_kappa_m_[NDKSWIN_IFA],current_kappa_m_[NDKSWIN_IFA],training_time_[NDKSWIN_IFA],testing_time_[NDKSWIN_IFA],total_running_time_[NDKSWIN_IFA],model_size_[NDKSWIN_IFA],param,window,estimators
+0,199,0.190955,0.190955,0.163178,0.163178,0.085011,0.085011,0.218391,0.218391,1.000000,0.000000,-0.034885,-0.034885,-1.775862,-1.775862,0.030569,0.399252,0.429821,36.625977,result_Number0_for_WS50_NE30.csv,50,30

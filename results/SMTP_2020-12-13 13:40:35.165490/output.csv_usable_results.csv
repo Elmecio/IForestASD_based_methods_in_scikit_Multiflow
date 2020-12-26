@@ -1,0 +1,2 @@
+mean_acc_[O_IFA],mean_acc_[SADWIN_IFA],mean_acc_[PADWIN_IFA],mean_acc_[NDKSWIN_IFA],mean_f1_[O_IFA],mean_f1_[SADWIN_IFA],mean_f1_[PADWIN_IFA],mean_f1_[NDKSWIN_IFA],mean_precision_[O_IFA],mean_precision_[SADWIN_IFA],mean_precision_[PADWIN_IFA],mean_precision_[NDKSWIN_IFA],mean_recall_[O_IFA],mean_recall_[SADWIN_IFA],mean_recall_[PADWIN_IFA],mean_recall_[NDKSWIN_IFA],window,estimators
+0.498498,0.431431,0.461461,0.393393,0.295703,0.267910,0.280670,0.250958,0.333333,0.333333,0.333333,0.333333,0.166166,0.143810,0.153820,0.131131,50,20

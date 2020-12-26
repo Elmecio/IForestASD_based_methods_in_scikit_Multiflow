@@ -1,0 +1,5 @@
+0,1,2,3,4,5,6,7
+AnomalyRate,samples_seen_AnomalyRate,SADWIN,samples_seen_SADWIN,PADWIN,samples_seen_PADWIN,NDKSWIN,samples_seen_NDKSWIN
+1,50,0,100,0,100,0,50
+1,100,0,150,0,150,0,100
+1,150,,,,,0,150

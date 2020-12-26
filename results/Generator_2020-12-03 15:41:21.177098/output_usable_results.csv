@@ -1,0 +1,3 @@
+mean_acc_[M_IFA],mean_f1_[M_IFA],mean_precision_[M_IFA],mean_recall_[M_IFA],mean_kappa_[M_IFA],mean_kappa_m_[M_IFA],estimators,update_estimators
+0.244147,0.271557,0.292191,0.185902,-0.057099,-1.404255,30,0.0
+0.274247,0.294865,0.303348,0.192856,-0.045876,-1.308511,30,0.1
